@@ -1,0 +1,11 @@
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\bin\Debug\netcoreapp2.1\PalindromeDetect.deps.json
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\bin\Debug\netcoreapp2.1\PalindromeDetect.runtimeconfig.json
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\bin\Debug\netcoreapp2.1\PalindromeDetect.runtimeconfig.dev.json
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\bin\Debug\netcoreapp2.1\PalindromeDetect.dll
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\bin\Debug\netcoreapp2.1\PalindromeDetect.pdb
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\obj\Debug\netcoreapp2.1\PalindromeDetect.csprojAssemblyReference.cache
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\obj\Debug\netcoreapp2.1\PalindromeDetect.csproj.CoreCompileInputs.cache
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\obj\Debug\netcoreapp2.1\PalindromeDetect.AssemblyInfoInputs.cache
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\obj\Debug\netcoreapp2.1\PalindromeDetect.AssemblyInfo.cs
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\obj\Debug\netcoreapp2.1\PalindromeDetect.dll
+D:\c#practis\rapidfire\palindromeDetector\PalindromeDetect\PalindromeDetect\obj\Debug\netcoreapp2.1\PalindromeDetect.pdb
